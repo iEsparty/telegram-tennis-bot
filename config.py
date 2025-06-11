@@ -1,2 +1,2 @@
-TELEGRAM_TOKEN = "TU_TOKEN_AQUI"
-THESPORTSDB_API_KEY = "TU_API_KEY_AQUI"
+TELEGRAM_TOKEN = "8014560251:AAH92gpMZcM2qOuAgkgQV_BzI7OT2VDcpbY"
+THESPORTSDB_API_KEY = "https://www.thesportsdb.com/api/v1/json/3/eventsnextleague.php?id=4464"
